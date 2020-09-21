@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 User 2 edit
+=======
+Home edit
+>>>>>>> ba649407408771490db28cadcf3dd78d7061852d
